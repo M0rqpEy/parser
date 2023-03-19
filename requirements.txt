@@ -1,0 +1,7 @@
+selenium
+notebook
+beautifulsoup4
+pandas
+numpy
+python-dotenv
+requests

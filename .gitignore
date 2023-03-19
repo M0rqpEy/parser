@@ -1,0 +1,6 @@
+.env
+venv/
+chromedriver
+.ipynb_*/
+csv/
+
