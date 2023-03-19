@@ -3,4 +3,4 @@ venv/
 chromedriver
 .ipynb_*/
 csv/
-
+*.csv
