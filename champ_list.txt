@@ -1,0 +1,163 @@
+АВСТРАЛИЯ: Лига А,/ru/football/australia/a-league/
+АВСТРАЛИЯ: НПЛ АСТ,/ru/football/australia/npl-act/
+АВСТРАЛИЯ: НПЛ Северный Новый Южный Уэльс,/ru/football/australia/npl-northern-nsw/
+АВСТРАЛИЯ: НПЛ Новый Южный Уэльс,/ru/football/australia/npl-nsw/
+АВСТРАЛИЯ: НПЛ Квинсленд,/ru/football/australia/npl-queensland/
+АВСТРАЛИЯ: НПЛ Южная Австралия,/ru/football/australia/npl-south-australian/
+АВСТРАЛИЯ: НПЛ Тасмания,/ru/football/australia/npl-tasmania/
+АВСТРАЛИЯ: НПЛ Виктория,/ru/football/australia/npl-victoria/
+АВСТРАЛИЯ: НПЛ Западная Австралия,/ru/football/australia/npl-western-australia/
+АВСТРИЯ: Бундеслига,/ru/football/austria/bundesliga/
+АВСТРИЯ: Вторая лига,/ru/football/austria/2-liga/
+АЗЕРБАЙДЖАН: Премьер-лига,/ru/football/azerbaijan/premier-league/
+АЛБАНИЯ: Суперлига,/ru/football/albania/super-league/
+АЛЖИР: Первый дивизион,/ru/football/algeria/division-1/
+АЛЖИР: Лига 2,/ru/football/algeria/ligue-2/
+АНГЛИЯ: Премьер-лига,/ru/football/england/premier-league/
+АНГЛИЯ: Чемпионшип,/ru/football/england/championship/
+АНГЛИЯ: Первая лига,/ru/football/england/league-one/
+АНГЛИЯ: Вторая лига,/ru/football/england/league-two/
+АРГЕНТИНА: Лига Професиональ,/ru/football/argentina/liga-profesional/
+АРГЕНТИНА: Примера Насьональ,/ru/football/argentina/primera-nacional/
+АРГЕНТИНА: Примера Б,/ru/football/argentina/primera-b/
+АРМЕНИЯ: Премьер-лига,/ru/football/armenia/premier-league/
+БАНГЛАДЕШ: Премьер-лига,/ru/football/bangladesh/premier-league/
+БАХРЕЙН: Премьер-лига,/ru/football/bahrain/premier-league/
+БЕЛАРУСЬ: Высшая лига,/ru/football/belarus/vysshaya-liga/
+БЕЛЬГИЯ: Высшая лига,/ru/football/belgium/jupiler-league/
+БЕЛЬГИЯ: Challenger Pro League,/ru/football/belgium/challenger-pro-league/
+БОЛГАРИЯ: Первая лига,/ru/football/bulgaria/parva-liga/
+БОЛИВИЯ: Дивизион Професиональ,/ru/football/bolivia/division-profesional/
+БОСНИЯ И ГЕРЦЕГОВИНА: Премьер-лига,/ru/football/bosnia-and-herzegovina/premier-league/
+БРАЗИЛИЯ: Чемпионат Бразилии,/ru/football/brazil/serie-a/
+БРАЗИЛИЯ: Чемпионат Бразилии В,/ru/football/brazil/serie-b/
+БРАЗИЛИЯ: Чемпионат Бразилии C,/ru/football/brazil/serie-c/
+ВЕНГРИЯ: Высшая лига,/ru/football/hungary/otp-bank-liga/
+ВЕНГРИЯ: Меркантил Банк Лига,/ru/football/hungary/merkantil-bank-liga/
+ВЕНЕСУЭЛА: Liga FUTVE,/ru/football/venezuela/liga-futve/
+ВЬЕТНАМ: Лига V,/ru/football/vietnam/v-league/
+ВЬЕТНАМ: Лига V 2,/ru/football/vietnam/v-league-2/
+ГВАТЕМАЛА: Национальная лига,/ru/football/guatemala/liga-nacional/
+ГЕРМАНИЯ: Бундеслига,/ru/football/germany/bundesliga/
+ГЕРМАНИЯ: Вторая Бундеслига,/ru/football/germany/2-bundesliga/
+ГЕРМАНИЯ: Третья лига,/ru/football/germany/3-liga/
+ГОНДУРАС: Национальная лига,/ru/football/honduras/liga-nacional/
+ГОНКОНГ: Премьер-лига,/ru/football/hong-kong/premier-league/
+ГРЕЦИЯ: Суперлига,/ru/football/greece/super-league/
+ГРЕЦИЯ: Суперлига 2,/ru/football/greece/super-league-2/
+ГРУЗИЯ: Лига Эровнули,/ru/football/georgia/crystalbet-erovnuli-liga/
+ДАНИЯ: Суперлига,/ru/football/denmark/superliga/
+ДАНИЯ: Первый дивизион,/ru/football/denmark/1st-division/
+ЕГИПЕТ: Премьер-лига,/ru/football/egypt/premier-league/
+ИЗРАИЛЬ: Суперлига,/ru/football/israel/ligat-ha-al/
+ИЗРАИЛЬ: Первая лига,/ru/football/israel/leumit-league/
+ИНДИЯ: Суперлига,/ru/football/india/isl/
+ИНДИЯ: Первый дивизион,/ru/football/india/i-league/
+ИНДОНЕЗИЯ: Лига 1,/ru/football/indonesia/liga-1/
+ИНДОНЕЗИЯ: Лига 2,/ru/football/indonesia/liga-2/
+ИОРДАНИЯ: Премьер-лига,/ru/football/jordan/premier-league/
+ИРЛАНДИЯ: Премьер-Дивизион,/ru/football/ireland/premier-division/
+ИРЛАНДИЯ: Первый дивизион,/ru/football/ireland/division-1/
+ИСЛАНДИЯ: Лучший дивизион,/ru/football/iceland/besta-deild-karla/
+ИСЛАНДИЯ: Division 1,/ru/football/iceland/division-1/
+ИСПАНИЯ: Примера,/ru/football/spain/laliga/
+ИСПАНИЯ: Сегунда,/ru/football/spain/laliga2/
+ИСПАНИЯ: Примера РФЕФ - Группа 1,/ru/football/spain/primera-rfef-group-1/
+ИСПАНИЯ: Примера РФЕФ - Группа 2,/ru/football/spain/primera-rfef-group-2/
+ИТАЛИЯ: Серия А,/ru/football/italy/serie-a/
+ИТАЛИЯ: Серия В,/ru/football/italy/serie-b/
+ИТАЛИЯ: Серия C - Группа A,/ru/football/italy/serie-c-group-a/
+ИТАЛИЯ: Серия C - Группа B,/ru/football/italy/serie-c-group-b/
+ИТАЛИЯ: Серия C - Группа C,/ru/football/italy/serie-c-group-c/
+КАЗАХСТАН: OLIMPBET-Чемпионат Казахстана,/ru/football/kazakhstan/premier-league/
+КАМЕРУН: Элитный дивизион,/ru/football/cameroon/elite-one/
+КАНАДА: Канадская Премьер-лига,/ru/football/canada/canadian-premier-league/
+КАТАР: Лига Катар Старс,/ru/football/qatar/qsl/
+КЕНИЯ: Премьер-Лига,/ru/football/kenya/premier-league/
+КИПР: Первый дивизион,/ru/football/cyprus/first-division/
+КИТАЙ: Суперлига,/ru/football/china/super-league/
+КИТАЙ: Первая лига,/ru/football/china/jia-league/
+КОЛУМБИЯ: Примера А,/ru/football/colombia/primera-a/
+КОЛУМБИЯ: Примера Б,/ru/football/colombia/primera-b/
+КОСТА-РИКА: Высший дивизион,/ru/football/costa-rica/primera-division/
+КОСТА-РИКА: Ассенсо,/ru/football/costa-rica/liga-de-ascenso/
+КОТ-Д'ИВУАР: Лига 1,/ru/football/ivory-coast/ligue-1/
+КУВЕЙТ: Премьер-лига,/ru/football/kuwait/premier-league/
+ЛАТВИЯ: СинотТип Лига,/ru/football/latvia/optibet-virsliga/
+ЛИТВА: Первый дивизион,/ru/football/lithuania/a-lyga/
+МАЛАЙЗИЯ: Суперлига,/ru/football/malaysia/super-league/
+МАЛЬТА: Премьер-лига,/ru/football/malta/premier-league/
+МАРОККО: Ботола Про,/ru/football/morocco/botola-pro/
+МЕКСИКА: Лига MX,/ru/football/mexico/liga-mx/
+МЕКСИКА: Лига Экспансьон МХ,/ru/football/mexico/liga-de-expansion-mx/
+МОЛДОВА: Super Liga,/ru/football/moldova/super-liga/
+НИГЕРИЯ: НПФЛ,/ru/football/nigeria/npfl/
+НИДЕРЛАНДЫ: Высшая лига,/ru/football/netherlands/eredivisie/
+НИДЕРЛАНДЫ: Первый дивизион,/ru/football/netherlands/eerste-divisie/
+НИКАРАГУА: Лига Примера,/ru/football/nicaragua/liga-primera/
+НОВАЯ ЗЕЛАНДИЯ: National League,/ru/football/new-zealand/national-league/
+НОРВЕГИЯ: Высшая лига,/ru/football/norway/eliteserien/
+НОРВЕГИЯ: ОБОС-Лига,/ru/football/norway/obos-ligaen/
+ОАЭ: Первый дивизион,/ru/football/united-arab-emirates/uae-league/
+ОМАН: Профессиональная Лига,/ru/football/oman/professional-league/
+ПАНАМА: ЛПФ,/ru/football/panama/lpf/
+ПАРАГВАЙ: Первый дивизион,/ru/football/paraguay/primera-division/
+ПЕРУ: Лига 1,/ru/football/peru/liga-1/
+ПЕРУ: Лига 2,/ru/football/peru/liga-2/
+ПОЛЬША: Премьер-лига,/ru/football/poland/ekstraklasa/
+ПОЛЬША: Первый дивизион,/ru/football/poland/division-1/
+ПОРТУГАЛИЯ: Чемпионат Португалии,/ru/football/portugal/liga-portugal/
+ПОРТУГАЛИЯ: Вторая лига,/ru/football/portugal/liga-portugal-2/
+РОССИЯ: Премьер-лига,/ru/football/russia/premier-league/
+РОССИЯ: ФНЛ,/ru/football/russia/fnl/
+РУМЫНИЯ: Высшая лига,/ru/football/romania/liga-1/
+РУМЫНИЯ: Лига 2,/ru/football/romania/liga-2/
+САЛЬВАДОР: Премьер-лига,/ru/football/el-salvador/primera-division/
+САУДОВСКАЯ АРАВИЯ: Премьер-лига,/ru/football/saudi-arabia/saudi-professional-league/
+СЕВЕРНАЯ ИРЛАНДИЯ: Премьер-лига,/ru/football/northern-ireland/nifl-premiership/
+СЕВЕРНАЯ МАКЕДОНИЯ: Первая лига,/ru/football/north-macedonia/1-mfl/
+СЕНЕГАЛ: Лига 1,/ru/football/senegal/ligue-1/
+СЕРБИЯ: Суперлига,/ru/football/serbia/super-liga/
+СИНГАПУР: Премьер-лига,/ru/football/singapore/premier-league/
+СЛОВАКИЯ: Первая лига,/ru/football/slovakia/fortuna-liga/
+СЛОВЕНИЯ: Первая лига,/ru/football/slovenia/prva-liga/
+СУДАН: Премьер-лига,/ru/football/sudan/premier-league/
+США: МЛС,/ru/football/usa/mls/
+США: Чемпионшип ЮСЛ,/ru/football/usa/usl-championship/
+ТАИЛАНД: Тайская лига,/ru/football/thailand/thai-league-1/
+ТАЙВАНЬ: Премьер-лига,/ru/football/taiwan/premier-league/
+ТАНЗАНИЯ: Премьер-лига,/ru/football/tanzania/ligi-kuu-bara/
+ТУНИС: Высшая лига,/ru/football/tunisia/ligue-professionnelle-1/
+ТУРЦИЯ: Суперлига,/ru/football/turkey/super-lig/
+ТУРЦИЯ: Первая лига,/ru/football/turkey/1-lig/
+УЗБЕКИСТАН: Суперлига,/ru/football/uzbekistan/super-league/
+УКРАИНА: Премьер-лига,/ru/football/ukraine/premier-league/
+УРУГВАЙ: Премьер-лига,/ru/football/uruguay/primera-division/
+УЭЛЬС: Валлийская премьер-лига,/ru/football/wales/cymru-premier/
+ФИЛИППИНЫ: ПФЛ,/ru/football/philippines/pfl/
+ФИНЛЯНДИЯ: Высшая лига,/ru/football/finland/veikkausliiga/
+ФИНЛЯНДИЯ: Первый дивизион,/ru/football/finland/ykkonen/
+ФРАНЦИЯ: Первая лига,/ru/football/france/ligue-1/
+ФРАНЦИЯ: Вторая лига,/ru/football/france/ligue-2/
+ХОРВАТИЯ: HNL,/ru/football/croatia/hnl/
+ХОРВАТИЯ: Prva NL,/ru/football/croatia/prva-nl/
+ЧЕРНОГОРИЯ: Первая лига,/ru/football/montenegro/prva-crnogorska-liga/
+ЧЕХИЯ: Первая лига,/ru/football/czech-republic/1-liga/
+ЧЕХИЯ: Второй дивизион,/ru/football/czech-republic/division-2/
+ЧИЛИ: Высший дивизион,/ru/football/chile/primera-division/
+ЧИЛИ: Примера Б,/ru/football/chile/primera-b/
+ШВЕЙЦАРИЯ: Суперлига,/ru/football/switzerland/super-league/
+ШВЕЙЦАРИЯ: Первая лига,/ru/football/switzerland/challenge-league/
+ШВЕЦИЯ: Высшая лига,/ru/football/sweden/allsvenskan/
+ШВЕЦИЯ: Первая лига,/ru/football/sweden/superettan/
+ШОТЛАНДИЯ: Премьер-лига,/ru/football/scotland/premiership/
+ШОТЛАНДИЯ: Чемпионшип,/ru/football/scotland/championship/
+ЭКВАДОР: Лига Про,/ru/football/ecuador/liga-pro/
+ЭСТОНИЯ: Высшая лига,/ru/football/estonia/meistriliiga/
+ЮЖНАЯ АФРИКА: Премьер-лига,/ru/football/south-africa/premier-league/
+ЮЖНАЯ КОРЕЯ: К-Лига 1,/ru/football/south-korea/k-league-1/
+ЮЖНАЯ КОРЕЯ: К-Лига 2,/ru/football/south-korea/k-league-2/
+ЯМАЙКА: Премьер-лига,/ru/football/jamaica/premier-league/
+ЯПОНИЯ: Лига Джей-1,/ru/football/japan/j1-league/
+ЯПОНИЯ: Лига Джей-2,/ru/football/japan/j2-league/
+ЯПОНИЯ: Лига Джей-3,/ru/football/japan/j3-league/
