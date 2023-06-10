@@ -3,4 +3,5 @@ venv/
 chromedriver
 .ipynb_*/
 csv/
+**/__pycache__/
 
