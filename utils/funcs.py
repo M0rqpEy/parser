@@ -197,12 +197,12 @@ def get_total_work(clean_data, old_data, team_names):
 
         if not (
                 filtred_work_df_np[
-                        (filtred_work_df_np[:, 0] == h_first_target)
-                        &
-                        (filtred_work_df_np[:, 1] == h_full_target)
+#                         (filtred_work_df_np[:, 0] == h_first_target)
 #                         &
-#                         (filtred_work_df_np[:, 2] == a_first_target)
-#                         &(filtred_work_df_np[:, 3] == a_full_target)
+#                         (filtred_work_df_np[:, 1] == h_full_target)
+#                         &
+                        (filtred_work_df_np[:, 2] == a_first_target)
+                        &(filtred_work_df_np[:, 3] == a_full_target)
                 ].shape[0] >= 2        
         ): 
             print("result - no")
