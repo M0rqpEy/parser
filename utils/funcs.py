@@ -175,13 +175,13 @@ def get_total_work(clean_data, old_data, team_names):
                 ]].to_numpy()
 
    
-    filtred_work_df_np = work_df_np[
-        work_df_np[:, 6] == work_df_np[:, 7]  # нічья перший тайм
-#             work_df_np[:,6] + work_df_np[:, 7] > 1.5  # тб 1.5  перший тайм 
-    ]
-    if filtred_work_df_np.shape[0] == 0: 
-        print("немає нічьї за останні дві неділі в перших таймах")
-        return
+    #     filtred_work_df_np = work_df_np[
+#         work_df_np[:, 6] == work_df_np[:, 7]  # нічья перший тайм
+# #             work_df_np[:,6] + work_df_np[:, 7] > 1.5  # тб 1.5  перший тайм 
+#     ]
+#     if filtred_work_df_np.shape[0] == 0: 
+#         print("немає нічьї за останні дві неділі в перших таймах")
+#         return
     
     for h_name, a_name in team_names:
         h_first_target, h_full_target, a_first_target, a_full_target = get_team_results(
@@ -193,18 +193,36 @@ def get_total_work(clean_data, old_data, team_names):
         print(h_first_target, h_full_target, a_first_target, a_full_target)
         print()
 
-  
+        filtred_work_df_np =  work_df_np[
+                    (work_df_np[:, 0] == h_first_target)
+#                     &
+#                     (work_df_np[:, 1] == h_full_target)
+                    &
+                    (work_df_np[:, 2] == a_first_target)
+#                     &(work_df_np[:, 3] == a_full_target)
+                ]
+        if not filtred_work_df_np.shape[0] >= 2: 
+            print("за останні дві неділі в перших таймах меньше двух співпадінь")
+            continue
 
-        if not (
-                filtred_work_df_np[
-#                         (filtred_work_df_np[:, 0] == h_first_target)
-#                         &
-#                         (filtred_work_df_np[:, 1] == h_full_target)
-#                         &
-                        (filtred_work_df_np[:, 2] == a_first_target)
-                        &(filtred_work_df_np[:, 3] == a_full_target)
-                ].shape[0] >= 2        
-        ): 
+        
+        win_df_np_shape = filtred_work_df_np[
+#                     filtred_work_df_np[:, 4] == filtred_work_df_np[:, 5]
+    #                 filtred_work_df_np[:, 4] <= filtred_work_df_np[:, 5]
+    #                 filtred_work_df_np[:, 4] +  filtred_work_df_np[:, 5] < 3.5
+#                     (filtred_work_df_np[:, 4] > 0.5) & (filtred_work_df_np[:, 5] > 0.5)
+
+    #                 first time
+            filtred_work_df_np[:, 6] == filtred_work_df_np[:, 7]
+    #                 filtred_work_df_np[:, 6] != filtred_work_df_np[:, 7]
+#                     filtred_work_df_np[:,6] + filtred_work_df_np[:, 7] < 0.5
+#                     filtred_work_df_np[:,6] + filtred_work_df_np[:, 7] > 1.5
+            ].shape[0]
+        lose_df_np_shape = filtred_work_df_np.shape[0] - win_df_np_shape
+
+#         if not lose_df_np_shape == 0:
+        if not win_df_np_shape > lose_df_np_shape:  
+
             print("result - no")
             continue
         print("result - yes")
